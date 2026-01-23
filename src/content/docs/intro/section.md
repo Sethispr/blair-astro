@@ -3,7 +3,7 @@ title: Intro
 description: Blair's official beginner guide
 ---
 
-Welcome to the official **Blair guide**! Learn the basics from here, explore the bot’s commands, and more. You can search up a command/guide with the keyboard shortcut `ctrl k`.
+Welcome to the official **Blair guide**! Learn the basics from here, the bot’s commands, and more. You can search up a command/guide with the keyboard shortcut `ctrl k`.
 
 :::tip[Let's start!]
 
