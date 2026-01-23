@@ -1,31 +1,32 @@
 ---
 title: Name
-description: Page explaining how to customize your profile nickname.
+description: Page explaining how to customize your profile card.
 ---
 
-Set your **nickname** using the `=nick [name]` command, (e.g. `=nick sora`).
+Create your **profile** if you have not, using the `bprofile` command, (e.g. `bpro`).
 
-This name will be displayed to **raid parties, leaderboards, profile, identity, clan, etc**.
-
-> The default nickname for **all players** will be "**=use nick**".
+> Currently there is **no** default profile card, but soon support will be added for default preset selections.
 
 :::note
 
-Your nickname is visible to others. You can also use special letters https://lingojam.com/FancyTextGenerator
+Your profile is visible and searchable by others. Special letters in name etc does not have good support yet but this is a good site to find special fonts for text: https://lingojam.com/FancyTextGenerator
 
 :::
 
 ### Examples
 
 ```sh
-=nick
+bprofile
 ```
+
 
 **Do**:
 
-- `=nick schwi` (sets your **name** to "**schwi**")
+- `bpro` (shows your profile card)
+- `bprofile @seth` (shows seth's profile card)
+- `bp 1889274628819` (shows profile card for that user id)
 
 **Don't**:
 
-- `=nick` (missing name)
-- Using offensive or long names.
+- `Bpro sethyl` (does not support username searching)
+- Use offensive or long names.
