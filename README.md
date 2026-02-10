@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Simple Docs for all of Cupid's features</strong>
+  <strong>Simple Docs for all of Blair's features [DEPRECATED] moved to https://github.com/blairtcg/blair</strong>
 </p>
 
 <p align="center">
